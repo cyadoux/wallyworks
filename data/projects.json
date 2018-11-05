@@ -1,0 +1,217 @@
+[
+	{
+		"slug": "heidi-mattern",
+		"title": "Heidi Mattern's Home",
+		"description": "",
+		"category": "small home",
+		"images": [
+			"IMG_0001.jpg",
+			"IMG_0002.jpg",
+			"IMG_0003.jpg",
+			"IMG_0004.jpg",
+			"IMG_0005.jpg"
+		]
+	},
+	{
+		"slug": "kathryn-matta",
+		"title": "Kathryn Matta's Tiny ADU",
+		"description": "",
+		"category": "small home",
+		"images": [
+			"IMG_0001.jpg",
+			"IMG_0002.jpg",
+			"IMG_0003.jpg",
+			"IMG_0004.jpg",
+			"IMG_0005.jpg",
+			"IMG_0006.jpg",
+			"IMG_0007.jpg",
+			"IMG_0008.jpg"
+		]
+	},
+	{
+		"slug": "phil-and-wendy",
+		"title": "Phil and Wendy's Home",
+		"description": "",
+		"category": "small home",
+		"images": [
+			"IMG_0001.jpg",
+			"IMG_0002.jpg",
+			"IMG_0003.jpg",
+			"IMG_0004.jpg",
+			"IMG_0005.jpg",
+			"IMG_0006.jpg",
+			"IMG_0007.jpg"
+		]
+	},
+	{
+		"slug": "malcolm-dorn",
+		"title": "Malcolm Dorn's Home",
+		"description": "",
+		"category": "small home",
+		"images": [
+			"IMG_0001.jpg",
+			"IMG_0002.jpg",
+			"IMG_0003.jpg",
+			"Jay range hood.JPG",
+			"Oliver stair.JPG",
+			"PICT0002.JPG",
+			"PICT0007.JPG",
+			"PICT0008.JPG"
+		]
+	},
+	{
+		"slug": "jim-and-adriane-oliver",
+		"title": "Jim and Adriane's Japanese Inspired Home",
+		"description": "",
+		"category": "artistic",
+		"images": [
+			"IMG_0001.jpg",
+			"IMG_0002.jpg",
+			"IMG_0003.jpg",
+			"IMG_0004.jpg",
+			"IMG_0005.jpg",
+			"IMG_0006.jpg",
+			"IMG_0007.jpg",
+			"IMG_0008.jpg"
+		]
+	},
+	{
+		"slug": "dan-and-fran-post",
+		"title": "Dan and Fran Post Co-Housing Home",
+		"description": "",
+		"category": "artistic",
+		"images": [
+			"IMG_0001.jpg",
+			"IMG_0002.jpg",
+			"IMG_0003.jpg",
+			"IMG_0004.jpg",
+			"IMG_0005.jpg",
+			"IMG_0006.jpg",
+			"IMG_0007.jpg",
+			"IMG_0008.jpg",
+			"IMG_0009.jpg"
+		]
+	},
+	{
+		"slug": "biskup",
+		"title": "Biskup Home",
+		"description": "",
+		"category": "artistic",
+		"images": [
+			"IMG_0001.jpg",
+			"IMG_0002.jpg"
+		]
+	},
+	{
+		"slug": "tom-george-sarah-spaeth",
+		"title": "Tom George and Sarah Spaeth Family Home",
+		"description": "",
+		"category": "artistic",
+		"images": [
+			"IMG_0001.jpg",
+			"IMG_0002.jpg",
+			"PICT0005.JPG",
+			"PICT0006.JPG",
+			"PICT0007.JPG",
+			"PICT0008.3.JPG",
+			"PICT0009.JPG",
+			"PICT0011.JPG",
+			"PICT0012.JPG",
+			"PICT0013.JPG",
+			"PICT0014.4.JPG",
+			"PICT0015.JPG",
+			"PICT0016.JPG",
+			"PICT02010.JPG"
+		]
+	},
+	{
+		"slug": "rena-earll-murman",
+		"title": "Rena and Earll Murman Home",
+		"description": "",
+		"category": "remodel",
+		"images": [
+			"PICT0008.JPG",
+			"IMG_0001.jpg",
+			"IMG_0002.jpg",
+			"IMG_0003.jpg",
+			"IMG_0004.jpg",
+			"IMG_0005.jpg",
+			"PICT0003.JPG",
+			"PICT0005.JPG",
+			"PICT0015.JPG",
+			"PICT0016.JPG",
+			"PICT0019.6.JPG",
+			"PICT0024.JPG",
+			"PICT0025.JPG",
+			"PICT0026.JPG"
+		]
+	},
+	{
+		"slug": "kelly-oconnell-rich-conrad",
+		"title": "Kelly O'Connell and Rich Conrad Home",
+		"description": "",
+		"category": "remodel",
+		"images": [
+			"IMG_0001.jpg",
+			"IMG_0002.jpg",
+			"IMG_0003.jpg",
+			"IMG_0004.jpg",
+			"IMG_0005.jpg",
+			"IMG_0006.jpg",
+			"IMG_0007.jpg"
+		]
+	},
+	{
+		"slug": "uptown-complex",
+		"title": "Uptown Complex",
+		"description": "",
+		"category": "community",
+		"images": [
+			"IMG_0001.jpg",
+			"IMG_0002.jpg",
+			"IMG_0003.jpg",
+			"IMG_0004.jpg",
+			"IMG_0005.jpg",
+			"IMG_0006.jpg"
+		]
+	},
+	{
+		"slug": "richard-berg-architects",
+		"title": "Richard Berg Architects",
+		"description": "",
+		"category": "community",
+		"images": [
+			"IMG_0001.jpg",
+			"IMG_0002.jpg",
+			"IMG_0003.jpg",
+			"IMG_0004.jpg",
+			"IMG_0005.jpg"
+		]
+	},
+	{
+		"slug": "rosewind-common-house",
+		"title": "Rosewind Common House",
+		"description": "",
+		"category": "community",
+		"images": [
+			"IMG_0001.jpg",
+			"IMG_0002.jpg",
+			"IMG_0003.jpg",
+			"IMG_0004.jpg",
+			"IMG_0005.jpg"
+		]
+	},
+	{
+		"slug": "quimper-unitarian-fellowship",
+		"title": "Quimper Unitarian Fellowship",
+		"description": "",
+		"category": "community",
+		"images": [
+			"IMG_0001.jpg",
+			"IMG_0002.jpg",
+			"IMG_0003.jpg",
+			"IMG_0004.jpg",
+			"IMG_0005.jpg"
+		]
+	}
+]

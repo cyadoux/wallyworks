@@ -1,0 +1,222 @@
+// RESET + NORMALIZE = FIX
+html {
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+body {
+    margin: 0;
+    font: 22px/1 sans-serif;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+}
+h1,
+h2,
+h3,
+h4,
+p,
+blockquote,
+figure,
+ol,
+ul {
+    margin: 0;
+    padding: 0;
+}
+main {
+    display: block;
+}
+h1,
+h2,
+h3,
+h4 {
+    font-size: inherit;
+}
+strong {
+    font-weight: bold;
+}
+a,
+button {
+    color: inherit;
+    transition: .3s;
+}
+a {
+    // text-decoration: none;
+}
+button {
+    overflow: visible;
+    border: 0;
+    font: inherit;
+    -webkit-font-smoothing: inherit;
+    letter-spacing: inherit;
+    background: none;
+    cursor: pointer;
+}
+::-moz-focus-inner {
+    padding: 0;
+    border: 0;
+}
+:focus {
+    outline: 0;
+}
+img {
+    max-width: 100%;
+    height: auto;
+    border: 0;
+}
+
+// TYPOGRAPHY
+@font-face {
+    font-family: 'Lora';
+    src: url('/fonts/lora/lora-regular-webfont.woff2') format('woff2'),
+         url('/fonts/lora/lora-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lora';
+    src: url('/fonts/lora/lora-italic-webfont.woff2') format('woff2'),
+         url('/fonts/lora/lora-italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Lora';
+    src: url('/fonts/lora/lora-bold-webfont.woff2') format('woff2'),
+         url('/fonts/lora/lora-bold-webfont.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lora';
+    src: url('/fonts/lora/lora-bolditalic-webfont.woff2') format('woff2'),
+         url('/fonts/lora/lora-bolditalic-webfont.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+}
+
+// STYLES
+body {
+	background-color: white;
+	font-family: 'Lora', 'Libre Baskerville', serif;
+	font-weight: 400;
+	line-height: 1.45;
+	color: #232020;
+	border-top: 0.75em solid #849664;
+	border-bottom: 0.75em solid #4b2324;
+	max-width: 1024px;
+	margin: auto;
+	padding: 1em;
+}
+
+p {
+	margin-bottom: 1.3em;
+}
+
+h1, h2, h3, h4 {
+	margin: 1.414em 0 0.5em;
+	font-weight: inherit;
+	line-height: 1.2;
+}
+
+h1 {
+	margin-top: 0;
+	font-weight: bold;
+	font-size: 2.441em;
+}
+
+h2 {
+	font-size: 1.953em;
+}
+
+h3 {
+	font-size: 1.563em;
+}
+
+h4 {
+	font-size: 1.25em;
+}
+
+a {
+	color: #4b2324;
+}
+a:hover {
+	color: #232020;
+}
+
+small {
+	font-size: 0.8em;
+}
+
+header,
+footer {
+	text-align: center;
+}
+
+header {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	align-items: center;
+	margin-bottom: 2em;
+}
+
+nav {
+
+}
+
+nav a {
+	margin-left: 1em;
+}
+
+main {
+	margin-bottom: 2em;
+}
+
+.project-photos > img {
+	margin-bottom: 1em;
+	margin-left: 1em;
+	// display: block;
+	// max-width:230px;
+	// max-height:95px;
+	width: auto;
+	height: auto;
+	vertical-align: middle;
+}
+
+.logo {
+	max-width: 250px;
+}
+
+.project-list {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.project-list section {
+	margin-bottom: 1em;
+	text-align: center;
+}
+
+.project-list section img {
+	max-height: 300px;
+}
+
+.project {
+	text-align: center;
+}
+
+.copy {
+	max-width: 60ch;
+	text-align: center;
+	margin: auto;
+}
+
+.banner {
+	border-radius: 50%;
+	border: 1px solid #232020;
+	margin-bottom: 1em;
+}

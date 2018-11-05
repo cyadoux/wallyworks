@@ -1,0 +1,18 @@
+---
+title: Project
+---
+
+<article class="project">
+	<p>← <%= link_to 'Back to Projects', '/projects' %></p>
+	<h1><%= project.title %></h1>
+
+	<% if !project.images.blank? %>
+		<div class="project-photos">
+		<% for image in project.images %>
+		<%= image_tag "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=", :datasrc => ("/images/projects/#{project.slug}/#{image}") %>
+		<% end %>
+		</div>
+	<% else %>
+		<p>There are no photos yet!</p>
+	<% end %>
+</article>

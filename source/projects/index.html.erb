@@ -1,0 +1,15 @@
+---
+title: Projects
+---
+
+<h1>Our Work</h1>
+<p>At Wallyworks we enjoy building beautiful, creative and “not-so-big” homes for our clients. Following are some pictorial examples of our work.</p>
+
+<article class="project-list">
+	<% data.projects.each do |p| %>
+	<section>
+		<%= image_tag "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=", :datasrc => ("/images/projects/#{p.slug}/#{p.images[0]}") %>
+		<p><%= link_to p.title, "#{p.slug}" %></p>
+	</section>
+	<% end %>
+</article>
